@@ -8,8 +8,4 @@ try:
 	duong = dw_ear.recognize_google(audio)
 except:
 	duong = ""
-
-
-
-
 print(duong)
